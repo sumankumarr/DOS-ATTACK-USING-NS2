@@ -13,6 +13,5 @@ Entropy Calculation
 Here requesting nodes are based on TCP and attacking nodes are based on
 UDP. Used Entropy calculation to graphically display the time at which
 the attack actually started.
-
 First run prod_tcp.tcl and then run ddos.sh to see the output. 
 
