@@ -16,7 +16,6 @@ parameter11=$11
 parameter12=$12
 if (parameter1=="r" && parameter5=="cbr" && parameter4==16)
 number_of_received++;
-
 printf("\n%f %d",parameter2,number_of_received);
 }
 END {
