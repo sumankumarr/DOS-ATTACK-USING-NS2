@@ -9,7 +9,6 @@ rm node9_1.txt
 rm node15_1.txt
 rm node16_1.txt
 
-
 awk -f cal_udp.awk out.tr > output.txt
 awk -f node4.awk out.tr > node4.txt
 awk -f node9.awk out.tr > node9.txt
