@@ -16,11 +16,3 @@ the attack actually started.
 
 First run prod_tcp.tcl and then run ddos.sh to see the output. 
 
-
-
-Feel free to contact me:
-----------------------------
-
-https://www.facebook.com/SaurabhGarg09
-
-gargsaurabh1993@gmail.com
