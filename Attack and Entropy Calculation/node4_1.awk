@@ -20,7 +20,6 @@ number_of_normal++;
 if (parameter1=="r" && parameter5=="cbr" && parameter4==4)
 number_of_attack++;
 
-
 printf("\n%f %f",parameter2,((number_of_normal)/(number_of_attack + number_of_normal)));
 }
 END {
