@@ -2,7 +2,6 @@ grep "^r" out.tr | grep " cbr " > output
 
 rm arrt prob pkt_asd d1 d2 d3 p1 p2 p3
 
-
 i=49
 while [ $i -le 490 ]
 do
