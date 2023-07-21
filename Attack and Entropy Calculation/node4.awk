@@ -16,7 +16,6 @@ parameter11=$11
 parameter12=$12
 if (parameter1=="r" && parameter5=="tcp" && parameter4==4)
 number_of_normal++;
-
 if (parameter1=="r" && parameter5=="cbr" && parameter4==4)
 number_of_attack++;
 
