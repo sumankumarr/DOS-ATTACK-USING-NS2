@@ -3,7 +3,6 @@ set ns [new Simulator]
 $ns color 0 black
 $ns color 1 blue
 $ns color 2 red
-
 set tracefile1 [open out.tr w]
 $ns trace-all $tracefile1
 
